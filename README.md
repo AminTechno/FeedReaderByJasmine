@@ -38,7 +38,8 @@ and to make some changes, go to js/app.js file and remove some of the feed names
 [Udacity](https://github.com/udacity/frontend-nanodegree-feedreader)
 
 * Jasmine Resources
-https://jasmine.github.io/
+
+https://jasmine.github.io
 
 https://jasmine.github.io/2.0/introduction.html#section-Asynchronous_Support
 
