@@ -35,7 +35,7 @@ and to make some changes, go to js/app.js file and remove some of the feed names
 
 * The application forked from
 
-[Udacity] https://github.com/udacity/frontend-nanodegree-feedreader
+[Udacity](https://github.com/udacity/frontend-nanodegree-feedreader)
 
 * Jasmine Resources
 https://jasmine.github.io/
